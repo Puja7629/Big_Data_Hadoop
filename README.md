@@ -1,6 +1,5 @@
 # Big_Data_Hadoop
-Hands-on Hadoop
-To work with Big Data, you can work with Big Data Frameworks like Hadoop and Apache Spark.
+To work with Big Data, you can start Big Data Frameworks like Hadoop and Apache Spark.
 Here we are going first with Hadoop where we will be working oe=ver 25 technologies associated with it.
 ## Preequisite:
 ### Steps:
